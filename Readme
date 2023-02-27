@@ -1,0 +1,7 @@
+This script will produce a diagram for the TMA07 modeling problem, the input required are:
+
+#variables
+v_0 initial velocity in m/s
+T the thinking time in seoncds (setting to zero will exclude thinking time)
+t_c Time interval
+v_target the targer velocity for last line (setting to zero will draw all the lines)
